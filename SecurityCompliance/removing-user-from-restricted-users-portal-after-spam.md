@@ -22,7 +22,7 @@ description: "If a user continuously sends emails from Office 365 that are class
 
 If a user continuously sends emails from Office 365 that are classified as spam, they will be restricted from sending any more messages outbound. The user will be listed in the service as a bad outbound sender and will receive a Non-Delivery Report (NDR) that states:
 
-- Your message couldn't be delivered because you weren't recognized as a valid sender. The most common reason for this is that your email address is suspected of sending spam and it's no longer allowed to send messages outside of your organization. Contact your email admin for assistance. Remote Server returned '550 5.1.8 Access denied, bad outbound sender'
+- Your message couldn't be delivered because you weren't recognized as a valid sender. The most common reason for this is that your email address is suspected of sending spam and it's no longer allowed to send email. Contact your email admin for assistance. Remote Server returned '550 5.1.8 Access denied, bad outbound sender'
 
 ## What do you need to know before you begin?
 <a name="sectionSection0"> </a>
